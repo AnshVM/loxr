@@ -1,0 +1,12 @@
+"Ansh here this is string"
+{}[]!= == = >= //somecommetns here
+{}
+//some more comments here
+/
+/* here are some
+block
+comments do you like em ?? */
+123
+456.123
+nothing
+else if else
